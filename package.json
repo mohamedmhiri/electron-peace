@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "aloulou-optician",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Optician Store management",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -14,9 +14,10 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "mohamed mhiri",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "~1.6.2"
+  },
+  "dependencies": {
   }
 }
